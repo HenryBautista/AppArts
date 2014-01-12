@@ -1,0 +1,433 @@
+﻿{
+"TypeOfSongs":"Cantos",
+"ListSongs":
+	[
+
+		{
+	"SongName" : "A Bolivia y sus departamentos",
+	"SongImage" : "/ImagenesCantos/ABolivia.jpg",
+	"SongAuthors" : "Por el Tte. Humberto Sánchez Alcalá",
+	"SongLyric" : 
+	"Ya la voz del progreso porten
+	toso,
+dominando las vastas soledades,
+canta al sol de fulgentes claridades
+su triunfal avance estrepitoso
+
+Soberana, gentíl, la Republica hermosa,
+marcha augusta en el tiempo y las edades,
+y al resplandor de sus bellas ciudades
+ritma su vida ascencional poderosa.
+
+En sus montes, sus llanos y sus rios,
+y en la extensión de lo que fue desierto,
+palpitan todos los humanos bríos
+
+Hija de Bolivar, la Nación boliviana,
+es en el grande mundanal concierto,
+orgullo noble de la América hispana
+
+"
+		},
+		{
+		"SongName" : "Canto a Avaroa",
+	"SongImage" : "/ImagenesCantos/CantoAvaroa.jpg",
+	"SongAuthors" : "Letra y Música: Luis Felipe Arce",
+	"SongLyric" : 
+	"Cantemos
+un himno nuevo al valor,   
+buscando
+un ritmo bello de amor.  
+
+Al hombre que supo  
+audaz defender,
+la Patria amada,
+que le vio nacer.  
+
+ Llenemos de amor y gloria,
+ al hombre que supo morir.
+
+Avaroa es el sol de la gloria
+que en los campos de muerte brillo,
+pregonando canción de victoria
+que el coraje su frente ciño.
+
+Es por eso, que Eduardo Avaroa
+irá en los pliegues del bello pendón
+reflejando su imagen de gloria
+palpitando su gran corazón.
+"
+		},
+
+				{
+	"SongName" : "Canto a Bolivar",
+	"SongImage" : "/ImagenesCantos/CantoBolivar.jpg",
+	"SongAuthors" : "Letra: Claudio Moreno Palacios
+Música: Zenón Eduardo U.",
+	"SongLyric" : 
+	"Es el canto guerrero de gloria
+Que se escucha lejano confín
+Es la voz del clarín de victoria
+De Pichincha, Ayacucho y Junín
+
+Como rayo de viva centella
+Su figura, resplandece en la cumbre;
+Desde el cielo de un mundo destella
+El fulgor de su genio de lumbre
+
+En las lides, poeta y soldado,
+Con su acero la lira vibro.
+Y si ante Eros, postrase admirados,
+Marte, altivo su sien corono
+
+¡Libertad! Fue el grito guerrero
+¡Libertad! Con su espada selló
+y al empuje de su límpido acero
+cinco pueblos del yugo salvó.
+
+Del Illampú al sin par de quién manda
+en su gesto sublime tallante
+en el carro triunfal de la fama
+llevo siempre su enseña adelante.
+
+Cual tormenta de fuego que arrasa
+abatió de Castilla el pendón.
+y el gran Manco Kapaj la raza
+de tres siglos canto redención.
+
+(Coro)
+
+De bolívar, la memoria,
+Para siempre vivirá
+En las fojas de la historia
+Que su espada gloriosa escribió
+
+"
+		},
+
+					{
+	"SongName" : "Melodias de America",
+	"SongImage" : "/ImagenesCantos/MelodiasAmerica.jpg",
+	"SongAuthors" : "Letra: Rodolfo Scizmmarella",
+	"SongLyric" : 
+	"Un canto de amistad
+de buena vecindad,
+unidos nos tendrán eternamente.
+Por nuestra libertad,
+por nuestra lealtad,
+debemos de vivir gloriosamente.
+
+Un símbolo de paz
+alumbrará el vivir,
+de todo el continente americano,
+fuerza de optimismo,
+fuerza de hermandad,
+será este canto de buena vecindad.
+
+Argentina, Brasil y Bolivia,
+Colombia, Chile y Ecuador,
+Uruguay, Venezuela y Honduras
+Guatemala y El Salvador.
+
+Costa Rica, Haití, Nicaragua,
+Cuba y Paraguay.
+Norteamérica, México y Perú,
+Santo Domingo, Puerto Rico y Panamá,
+
+son hermanos soberanos de la libertad,
+son hermanos soberanos de la libertad.
+
+"
+		},
+
+				{
+	"SongName" : "La Patria",
+	"SongImage" : "/ImagenesCantos/LaPatria.jpg",
+	"SongAuthors" : "Autor: Recopilación
+Interprete: Juan Enrique Jurado",
+	"SongLyric" : 
+	"La patria es el amor
+Es la dicha, es el hogar
+Es el afecto al altar
+Es consuelo en el dolor
+Es el más alto cariño
+Aquello que más se adora
+Por ella el anciano llora
+Por ella sonríe el niño
+
+Por ella el pecho suspira
+Por ella el alma se inquieta
+Por ella tiene el poeta
+Tanta dulzura en su lira.
+
+A ella van los ojos fijos
+Es el goce o la tristeza
+Por ella la madre reza
+Al rezar para sus hijos
+
+La Patria
+Es el torrente, es el mar
+Es arroyo, es laguna
+Es nuestro sepulcro y cuna
+Nuestra madre, nuestro hogar
+
+La Patria
+Es la palmera gigante
+Es el musgo de la grieta
+Es la azulada violeta
+Es la azucena fragante
+
+La Patria
+Es el sol que nos alumbra
+El aire que nos refresca
+Es la cabaña grotesca
+Y el alcanzar que deslumbra
+
+Es el verde y grato suelo
+Sembrado de flores bellas
+Es ese mundo de estrellas
+Que fulguran en el cielo
+
+Es el ruiseñor que canta
+Es la paloma que pía
+Es el moribundo día
+Y el astro que se levanta
+
+La Patria
+Es el sol que nos alumbra
+El aire que nos refresca
+Es la cabaña grotesca
+Y el alcanzar que deslumbra
+La Patria!!!
+
+"
+		},
+		{
+	"SongName" : " Salve ¡Oh, Patria!",
+	"SongImage" : "/ImagenesCantos/SalveOhPatria.jpg",
+	"SongAuthors" : "Letra: José Aguirre Achá
+Música: Bernardino Gonzales",
+	"SongLyric" :"
+         Salve, Salve, ¡Oh tierra feraz bendecida!    
+         Salve, Salve,¡Oh! Patria fecunda en valor.    
+         Nuestro orgullo es deberte la vida,    
+         nuestro anhelo morir por tu honor 
+         (Bis)
+         Salve, Oh Patria.............. Salve.   
+
+    Se atesora La Paz tu civismo    
+    también Charcas la culta está en tí;
+    Cochabamba probó tu heroísmo
+     y su riqueza sin par Potosí.
+
+         Pando y Beni su hermoso futuro    
+         y te brinda su Edén Santa Cruz    
+         el poder de tus brazos Oruro    
+         y Tarija su tipo andaluz. (Bis)   
+
+    Tocopilla, Cobija y Calama;    
+    Mejillones en el Litoral    
+    nuestra Patria constante reclama    
+    Antofagasta en las playas del mar.
+
+         Ni tiranos jamás, ni invasores,    
+         oscurezcan tu gran porvenir,    
+         o al redoble de alegres tambores     
+         marcharemos cantando a morir (Bis)    
+                             Salve, Salve, etc., etc.
+							 
+							 "
+	},
+		{
+	"SongName" : "Colorados de Bolivia",
+	"SongImage" : "/ImagenesCantos/Colorados.jpg",
+	"SongAuthors" : "Letra: Ricardo Bustamante  
+Música: Eloy Salmón ",
+	"SongLyric" : 
+	"Con la gran marcha militar   
+de los colorados   
+avancemos rumbo al ideal   
+a paso marcial.   
+
+El ondulante palpitar   
+de nuestra bandera   
+lleva ya su rumor de mar   
+hasta nuestro hogar. 
+
+Hay que escuchar el sonoro raudal   
+de nuestra tricolor tendida al Litoral   
+y el del clarín que aumentará
+nuestro fervor.   
+
+Hay que salvar con sereno valor
+la única senda que
+dió el boliviano honor
+y ha de encontrar el esplendor 
+de lo que fué. 
+
+Vibró el clarín desde el monte   
+hasta el mar oíd el épico son,   
+que ha de avivar la luz de la fe.   
+
+Vibró el clarín. 
+Boliviano oíd.   
+Marchemos con hondo afán   
+a conquiatar un haz de laurel. 
+
+Gloria al campeón   
+que con desdén   
+fue contra cien   
+de una legión.
+
+"
+		},
+		{
+	"SongName" : "Tricolor",
+	"SongImage" : "/ImagenesCantos/Tricolor.jpg",
+	"SongAuthors" : "Letra:Tcnl. Mus. Adrian Patiño Carpio
+Música: Tcnl. Mus. Adrian Patiño Carpio",
+	"SongLyric" :"Tricolor tricolor
+Nuestro hermoso pabellón
+Por el cual hoy daremos
+Alma, vida y corazón
+
+Somos hijos del gran Sucre
+Y Bolívar libertador
+Defendamos nuestra patria
+Arrojando al invasor 
+
+Camaradas a la lucha
+Por la patria y el hogar
+Que el Soldado Boliviano
+Siempre la hizo respetar
+
+Esa madre cariñosa
+Que llorando se quedo
+Por el hijo mas querido
+Que a la patria lo entrego
+
+Es por eso que hoy recuerdo
+Ese llanto de dolor
+Hijo mío me decía
+Vence o muere con valor.(bis)
+							 
+							 "
+	},
+
+		{
+	"SongName" : "Yo Quiero un mar para Bolivia",
+	"SongImage" : "/ImagenesCantos/MarParaBolivia.jpg",
+	"SongAuthors" : "Autor: Pedro Telmo",
+	"SongLyric" : 
+	"Yo quiero un mar,
+Un mar azul, para Bolivia
+Risas y llanto de mi pasado
+Y esta canción
+De enamorado
+Y quiero igual
+Su corazón aprisionado
+
+Yo quiero un mar
+Un mar azul
+Para Bolivia,
+Y quiero igual
+Su corazón aprisionado
+
+Risas y llantos
+De mi pasado,
+Y esta canción
+De enamorados,
+Yo quiero un mar,
+Un mar azul
+Para Bolivia.
+
+Tiempo feliz de mi niñez
+Que nunca olvido
+Recuerdos que en mi existir
+Están grabados.
+
+CORO
+
+Con la esperanza
+De una sonrisa
+Y una caricia
+De franca brisa,
+Yo quiero un mar
+Un mar azul
+Para BOLIVIA.
+
+"
+		},
+		{
+	"SongName" : "Pintame Bolivia",
+	"SongImage" : "/ImagenesCantos/PintameBolivia.jpg",
+	"SongAuthors" : "Autor: Negro y Blanco",
+	"SongLyric" : 
+	"Pintame amarillo
+pintame de verde
+pintame de rojo soy Bolivia y su gente.
+Cubreme de espuma
+bañame de mar
+mira como me hago el perdido Litoral
+
+CORO
+
+Porque Bolivia es el trabajo y la esperanza de crecer
+son los niños,son los campos es lo que agas tu nacer
+si es que crees en mi canto has de Bolivia tu tambien
+y ven a unir con migo tu esperanza y tu fe,
+
+llegame de lluvia
+siembrame semillas
+y mira como cresen en mi los campos de Bolivia
+buscame en la mina
+o en la selva virgen
+que en la cumbre andina hasta parte de mi origen
+
+CORO
+
+Porque Bolivia es el trabajo y la esperanza de crecer
+son los niños,son los campos es lo que agas tu nacer
+si es que crees en mi canto has de Bolivia tu tambien
+y ven a unir con migo tu esperanza y tu fe,
+
+CORO
+
+Porque Bolivia es el trabajo y la esperanza de crecer
+son los niños,son los campos es lo que agas tu nacer
+si es que crees en mi canto has de Bolivia tu tambieeeen
+y ven a unir con migo tu esperanza y tu fe,
+
+Pintame amarillo
+pintame de verde
+pintame de rojo soy Boliviaaaaa y su genteeeee.
+
+"
+		},
+		{
+	"SongName" : "Bolivia",
+	"SongImage" : "/ImagenesCantos/Bolivia.jpg",
+	"SongAuthors" : "Los Kjarkas",
+	"SongLyric" : 
+	"Ser tu bravura
+Ser la fuerza y juventud
+en tu letargo mudo
+la voz de inquietud
+
+Bolivia....
+Quiero pegar un grito de liberación
+después de un siglo y medio de humillación
+Quiero tengan tus dias destino mejor
+y el futuro sonría prometedor
+
+Bolivia...
+En las faldas de tus cerros haré mi hogar
+donde felices los niños irán a jugar
+
+ Bolivia.....
+
+"
+		}
+
+]
+}

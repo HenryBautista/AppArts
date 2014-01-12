@@ -1,0 +1,41 @@
+﻿{
+
+"ListCovers":
+[
+
+{
+"Title":"Himnos de Bolivia",
+
+"Description":"Es una colleccion de los Himnos
+mas relevantes de nuestro pais que incluyen Himnos como:
+
+Himno Nacional de Bolivia, Himno A Sucre, Himno a la Bandera, 
+Himno al Litoral Boliviano, Marcha Naval, Himno al Maestro, 
+Himno al deportista Boliviano, Himno al Trabajo, 
+Himno a la Madre y todos los Himnos a cada uno de 
+los departamentos de Bolivia.
+
+",
+"UrlCover":"/ImageCover/Himnos.jpg"
+},
+
+
+{
+"Title":"Cantos de Bolivia",
+"Description":"Muestra una gran lista de Himnos nacionales
+como el Himno Boliviano, Himno a Avaroa Etc.
+
+",
+"UrlCover":"/ImageCover/Cantos.jpg"
+},
+{
+"Title":"Extras",
+"Description":"Muestra una gran lista de Himnos nacionales
+como el Himno Boliviano, Himno a Avaroa Etc.
+
+",
+"UrlCover":"/ImageCover/Extras.jpg"
+}
+
+]
+}

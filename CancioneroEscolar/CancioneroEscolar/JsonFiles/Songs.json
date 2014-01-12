@@ -1,0 +1,728 @@
+﻿{
+"TypeOfSongs":"Himnos",
+"ListSongs":
+	[
+		{
+	"SongName" : "Himno Nacional",
+	"SongImage" : "/Image/HimnoNacional.jpg",
+	"SongAuthors" : "Letra: José Ignacio Sanjines
+Música: Benedetto Vincenti
+",
+	"SongLyric" : 
+	"¡Bolivianos!…¡El hado propicio
+coronó nuestros votos y anhelo!…
+Es ya libre, ya libre este suelo,
+ya cesó su servil condición.
+
+Al estruendo marcial que ayer fuera
+y al clamor de la guerra, horroroso,
+siguen hoy, en contraste armonioso,
+dulces himnos de paz y de unión.
+
+CORO
+
+De la Patria el alto nombre
+en glorioso esplendor conservemos…
+Y, en sus aras, de nuevo juremos:
+¡Morir antes que esclavos vivir!…
+
+II
+
+Loor eterno a los bravos guerreros,
+cuyo heroico valor y firmeza
+conquistaron las glorias que empieza
+hoy Bolivia feliz a gozar.
+
+Que sus nombres, el mármol y el bronce,
+a remotas edades trasmitan
+y, en sonoros cantares, repitan:
+¡Libertad, Libertad, Libertad!…
+
+CORO
+
+III
+
+Aquí alzó la justicia, su trono
+que la vil opresión desconoce,
+y, en su timbre glorioso, legóse
+Libertad, libertad, libertad.
+
+Esta tierra inocente y hermosa,
+que ha debido a Bolívar su nombre,
+es la Patria feliz donde el hombre
+goza el bien de la dicha y la paz.
+
+CORO
+
+IV
+
+Si extranjero poder, algún día,
+sojuzgar a Bolivia intentare,
+al destino fatal se prepare
+que amenaza a soberbio agresor.
+
+Que los hijos del grande Bolívar
+han ya, mil y mil veces, jurado
+morir antes que ver humillado,
+de la Patria el augusto pendón.
+
+"
+		},
+		{
+	"SongName" : "Himno al Litoral Boliviano",
+	"SongImage" : "/Image/HimnoLitoral.jpg",
+	"SongAuthors" : "Letra: Gastón Velasco
+Música: Edgardo de la Vega",
+	"SongLyric" : "Adelante bolivianos
+Marchemos hacia el Mar
+Que la Patria nos reclama
+el cautivo Litoral.
+
+Todo anhelo y esperanza
+es volver a nuestro Mar
+Que, siempre tendrá Bolivia,
+Otra vez, su Mar, su Mar
+
+Antofagasta, tierra hermosa
+Tocopilla, Mejillones junto al mar
+con Cobija y Calama
+otra vez a la patria volverán"
+	},
+	{
+	"SongName" : "Recuperemos nuestro Mar",
+	"SongImage" : "/Image/RecuperemosMar.jpg",
+	"SongAuthors" : "Letra	Orlando Rojas",
+	"SongLyric" : "Recuperemos nuestro mar...
+Recuperemos el Litoral...
+
+Aún a costa de la vida,
+recuperemos el mar cautivo
+la juventud esta presente
+Bolivia en alto reclama el mar.
+
+Tras este siglo de injusticia,
+morir es digno de tolerar
+recuperar, recuperar
+es nuestro grito y voluntad
+
+recuperar, recuperar,
+el Litoral y el ancho mar.
+
+"
+	},
+
+		{
+	"SongName" : "Marcha Naval",
+	"SongImage" : "/Image/MarchaMaritima.jpg",
+	"SongAuthors" : "Letra: Gastón Velasco Carrasco
+Música: Edgardo Otero de la Vega",
+	"SongLyric" : "Entonemos la canción
+del mar, del mar, del mar
+que pronto nos llevará
+a la dicha y bienestar
+
+Levantemos nuestra voz
+por nuestro Litoral,
+que pronto tendrá Bolivia
+otra vez; su mar, su mar.
+
+Antofagasta, tierra hermosa,
+Tocopilla, Mejillones y Tal Tal,
+con Cobija y Calama,
+otra vez a Bolivia volverán.
+
+"
+	},
+
+	{
+	"SongName" : "Himno A Sucre",
+	"SongImage" : "/Image/HimnoSucre.jpg",
+	"SongAuthors" : "Letra: Jacobo Ramallo
+Música: Marcelino Hidalgo",
+	"SongLyric" : "Al gran Sucre la gloria del mundo   
+recordemos con himnos de paz   
+él nos dió libertad con su sangre   
+y su nombre, su nombre inmortal.    
+
+De Ayacucho, en el campo su espada
+como rayo, del cielo brillo 
+y a su luz se mostraron gloriosos
+libres, libres, los hijos del sol..   
+
+El altar de la patría es hermoso   
+con la imagen del Gran Mariscal   
+vengador de los incas sublime   
+que nos dió libertad, libertad.    
+
+Bendigamos el nombre querido 
+de Bolivia su noble blazón 
+que venciendo al olvido y al tiempo 
+viva siempre en recuerdo de amor. "
+	},
+	{
+	"SongName" : "Himno A La Bandera",
+	"SongImage" : "/Image/HimnoBandera.jpg",
+	"SongAuthors" : "Letra: Dr. Ricardo Mujía 
+Música: Don Manuel Benavente",
+	"SongLyric" : "Pabellón tricolor, que te ostentas
+De Bolivia en el cielo radiante
+Como el iris de gloria triunfante,
+Como emblemas de paz y de unión.
+
+En tus pliegues benditos acoges
+Los anhelos de pueblo que te ama,
+Que en las cumbres andinas te aclama,
+Y te rinde homenaje de amor.
+
+Si el clarín de la guerra resuena
+Y nos llama la cruenta batalla
+Nuestros pechos serán la muralla
+Que resistan con fe y con valor.
+
+Las cornetas que dicen tu nombre,
+Desgranando a los vientos sus notas,
+Vibraran en las playas remotas
+Sobre el mar, que tus plantas besó.
+
+Pabellón tricolor, con tus franjas,
+De laurel, de oro vivo y de fuego;
+Por ti elevo a los cielos mi ruego,
+Por ti ofrezco mi vida al señor.
+
+Cuando sueltan tus pliegues al viento
+Protegiendo heredades y nidos
+Tuyos son los vehementes latidos
+De tu pueblo que es un corazón.
+"
+		},
+		{
+	"SongName" : "Himno al Maestro",
+	"SongImage" : "/Image/HimnoMaestro.jpg",
+	"SongAuthors" : "Letra : Juan Manuel Thorrez",
+	"SongLyric" : "Entonemos un himno de gloria
+cual se canta una marcha triunfal
+en honor al maestro que enseña
+el camino de fe y bondad.  
+
+ Mil coronas de lauros le ciñen 
+ esa frente repleta de ideal,
+ es el maestro que lleva en su alma
+ la pureza de luz y verdad.  
+
+ Tiene el alma tan pura y serena,
+ cual las aguas de un gran manantial,
+ estrechemos sus manos tan tiernas,
+ que están llenas de felicidad.
+
+Nada puede quebrar su conciencia,
+nada agota su sed de verdad,
+es el maestro a quien canta la gloria
+sus canciones de paz y bondad.
+
+"
+		},
+		{
+	"SongName" : "Himno al Deportista Boliviano",
+	"SongImage" : "/Image/HimnoDeportista.jpg",
+	"SongAuthors" : "Letra: Tcnl. Mus. Adrian Patiño Carpio
+Música: Tcnl. Mus. Adrian Patiño Carpio",
+	"SongLyric" : "Sanos y fuertes la frente altiva
+airosos marchemos con rítmico son.
+Baña el sol nuestra tierra nativa
+vivo late el boliviano corazón.
+
+Por el deporte viril y fuerte,
+patria haremos, potente y unida;
+sin la acción significa la muerte,
+solo el dinamismo es vida.
+
+Camaradería, vigor,
+lucha caballeresca, valor,
+¡Adelante, adelante,
+deportista, adelante!
+
+"
+	},
+	{
+	"SongName" : "Himno al Trabajo",
+	"SongImage" : "/Image/HimnoTrabajo.jpg",
+	"SongAuthors" : "Letra: Manuel Fernandez Juncos",
+	"SongLyric" : "Trabajemos, trabajemos,
+no haya tregua en la labor;
+trabajemos, trabajemos,
+que el trabajo es ley de Dios.
+
+No te detengas, dale sin reposo,
+luz a la mente y a la mano accion;
+que es el trabajo la oracion del fuerte,
+y el pensamiento nos acerca a Dios.
+Coro
+
+No se hicieron las manos para el ocio
+ni es el cerebro maquina pueril,
+con el trabajo y el orden te haras libre,
+y los estudios te haran dueño de ti.
+Coro
+
+Trabaja para todos que Dios mismo
+esta noble virtud nos hizo amar.
+Gloria a Dios en el cielo y en la tierra,
+amor, trabajo, estudio y libertad!
+Coro
+
+"
+	},
+	{
+	"SongName" : "Himno a la Madre",
+	"SongImage" : "/Image/HimnoMadre.jpg",
+	"SongAuthors" : "Letra: Roberto Bustamante
+Musica: Filomeno Rivero",
+	"SongLyric" : "
+Palpitantes de amor y de anhelo   
+a la madre elevemos la voz     
+dirigiendo su imagen al cielo   
+cual si fuera la imagen de Dios.  
+
+En la madre el pesar se depura  
+la grandeza en su vida se encierra
+bendigamos su inmensa ternura
+nuestra dicha suprema en la tierra.  
+
+Abnegada soporta las cruces,
+que por buena le carga el dolor,
+es la ostia su frente de luces,
+y su pecho es el cáliz de amor.
+
+
+Hoy la ciñen laureles y palmas,
+y por ella con hondo fervor
+en plegarias se tornan las almas
+y la espina conciértese en flor.
+
+Palpitantes de amor y de anhelo...
+"
+	},
+
+		{
+	"SongName" : "Himno A La Paz",
+	"SongImage" : "/Image/HimnoLaPaz.jpg",
+	"SongAuthors" : "Letra: Ricardo Bustamante 
+Música: Eloy Salmón",
+	"SongLyric" : "La Paz, que en este día   
+de Julio se engalana   
+con timbres de que ufana   
+recuerda su esplendor.   
+
+Patriótica armonía   
+de pueblos cuya historia
+ligada esta en la gloria
+de su ínclito valor.  
+
+CORO 
+
+Saludando de Julio el gran día,   
+que es el pueblo paceño blasón   
+celebremos con grata armonía   
+de valientes y libres la unión.   
+
+Los timbres de su fama 
+la America en un templo
+conserva como ejemplo
+de honor y de virtud.  
+
+Y al fuego que la inflama,   
+su suelo viendo hollado    
+se inspire en el pasado   
+su heroica juventud.
+
+Saludando de Julio el gran día,   
+que es el pueblo paceño blasón   
+celebremos con grata armonía   
+de valientes y libres la unión.      
+
+Titánicos guerreros   
+del cielo como gracia,  
+la invicta democracia
+nos dieron por pendón.  
+
+Si alguno hollar sus fueros   
+intenta en lo futuro   
+será de bronce un muro de   
+América la unión.
+
+Saludando de Julio el gran día,   
+que es el pueblo paceño blasón   
+celebremos con grata armonía   
+de valientes y libres la unión.   
+
+De America al destino
+bendiga siempre el cielo
+que aqui en su noble suelo
+nacio la libertad
+
+Y admire quien hoy sueña
+Tenemos por esclavos
+De libres y de bravos
+La historia ya inmortal
+
+Saludando de Julio el gran día,   
+que es el pueblo paceño blasón   
+celebremos con grata armonía   
+de valientes y libres la unión.   
+
+De unión la santa enseña,
+De hoy más el Continente
+Coloque allá en la frente
+Del Andes colosal
+
+Su centro diamantino 
+Radiante en nuestras zonas 
+Deslumbre a las coronas 
+Que aun odian la igualdad
+Saludando de Julio el gran día,   
+que es el pueblo paceño blasón   
+celebremos con grata armonía   
+de valientes y libres la unión."
+		},
+		{
+	"SongName" : "Himno a la Ciudad de El Alto",
+	"SongImage" : "/Image/HimnoAlto.jpg",
+	"SongAuthors" : "Letra y Musica: Orlando Rojas",
+	"SongLyric" : "
+Surge EL ALTO tenaz
+en constante vigor
+forjador de esperanzas
+Sembrador de amistad.
+
+Ciudadanos Cantad
+este Himno de Amor
+a la tierra bendita
+que nos viera nacer.
+
+6 de Marzo es el dia
+que en suave armonia alzamos la voz
+recordando de la Historia
+un hito de Gloria con loas de Amor.
+
+Alteños a cantar
+con jubilo y fervor
+a la tierra viril
+a este suelo de Dios.
+
+Alteños hoy de pie
+juremos a una voz
+o vencer o morir
+por EL ALTO feraz.
+
+"
+	},
+	{
+	"SongName" : "Himno A Oruro",
+	"SongImage" : "/Image/HimnoOruro.jpg",
+	"SongAuthors" : "Letra: José Encinas Nieto 
+Música: César Achaval ",
+	"SongLyric":"Cuando irradia el fulgor de la aurora
+al morir en la sierra el capuz,   
+todo el mundo de pie te saluda,   
+porque nace en tus cumbres la luz.   
+
+El Sajama es el trono sublime   
+donde se asienta la hermosa deidad,   
+la que vino radiante del cielo   
+coronada de luz y libertad.  
+
+Pagador el titán de los Andes   
+ante quien humillóse el león,   
+como Dios separando tinieblas   
+con su genio forjó otra creación.   
+
+El, también en el mar de la vida   
+cual Colón otro mundo nos da   
+Libertad, que es el mundo bendito
+donde vive feliz el mortal. "
+	},
+
+	{
+	"SongName" : "Himno A Pando",
+	"SongImage" : "/Image/HimnoPando.jpg",
+	"SongAuthors" : "Letra: Walter Femandez C.  
+Musica: Fortunato D. Uribe ",
+	"SongLyric":"Tierra santa vestida de gloria   
+en tus venas hay sangre de sol   
+ahora es tuya por siempre la Historia   
+aunque doble y redoble el tambor.   
+
+En tus cuatro Provincias unidas   
+suena el yunque de tu corazón   
+jamas ellas podran ser vencidas   
+ni humilladas al son del cañon.  
+
+Tahuamanu ... Abuná! Centinelas ...   
+afilando el clarín de su voz   
+Manuripi: un brochazo de estrellas   
+sobre el lienzo del Madre de Dios.   
+
+Todos juntos la paz levantemos   
+sin temor de paisajes, ni edad,   
+y a los cuatro horizontes cantemos   
+Libertad ... Libertad ... Libertad ...  
+
+El jardín de las flores es Pando   
+su riqueza es de bosque y cristal   
+donde el hombre defiende sangrando   
+palmo a palmo el honor nacional.   
+
+Sacrosanto pedazo de suelo   
+yo te ofrezco mi amor porque sé   
+que los otros tributos de un pueblo   
+son: La Fuerza, el Trabajo y la Fe..."
+	},
+	{
+	"SongName" : "Himno A Potosi",
+	"SongImage" : "/Image/HimnoPotosi.jpg",
+	"SongAuthors" : "Letra: Daniel Campos  
+Música: N. Romero ",
+	"SongLyric":"Hogar seas bendito   
+de paz y Libertad   
+asilo del proscrito   
+que lucha en la verdad.   
+
+De Bolivia en el suelo fecundo   
+el pendón del hogar se alza aquí   
+contemplad que ondea ante el mundo
+en la cima del gran Potosí.  
+
+En la misma montaña en que hiciera,   
+escalando con paso triunfal, tremolar   
+nuestra patria bandera, de Bolívar   
+el brazo inmortal.   
+
+Cuando un tiempo la América bella
+sus cadenas forjó la maldad
+de ti, oh pueblo! brotó centella 
+que primero escribió: Libertad.  
+
+Fue un Ibañez el mártir y el bravo   
+que retando el poder español   
+las tinieblas rasgo del esclavo   
+como rasga las nubes el sol. 
+
+Hogar seas bendito   
+de paz y Libertad   
+asilo del proscrito   
+que lucha en la verdad.  
+
+Ahora oh pueblo que es tuyo el destino
+luz del alba fulgura tu sien
+adelante, adelante
+digno atleta a luchar por el bien
+
+que aquie tenga la ley y el derecho
+el trabajo y virtud doble altar
+cuyo augusto dintel sepa el pecho
+como muro de bronce guardar
+
+Hogar seas bendito   
+de paz y Libertad   
+asilo del proscrito   
+que lucha en la verdad. "
+	},
+
+	{
+	"SongName" : "Himno A Santa Cruz",
+	"SongImage" : "/Image/HimnoSantaCruz.jpg",
+	"SongAuthors" : "Letra: Leonor Rivera 
+Música: Gastón Güillaus",
+	"SongLyric":"La España Grandiosa   
+Con hado benigno   
+aquí planto el signo   
+de la redención.   
+
+Y surgió a su sombra   
+un pueblo eminente   
+de límpida frente   
+de leal corazón.  
+
+Bajo el cielo más puro de América   
+y en la sierra de Ñuflo de Chavez,   
+Libertad van trinando las aves   
+de su veste ostentando el primor.   
+
+De las flores del mundo galano
+su ambrosía perfumada ofreciendo 
+Libertad, Libertad van diciendo
+en efluvios de paz y de amor.  
+
+Siempre libres, cruceños, seamos   
+cual lo son nuestras aves y flores,   
+y sepamos vencer los rigores   
+del que intente a la Patria oprimir.   
+
+Nuestros nombres en tal hora con sangre
+en la historia dejemos escrito,
+repitiendo de Warnes el grito:  
+A vencer o con gloria morir. "
+	},
+
+		{
+	"SongName" : "Himno A Tarija",
+	"SongImage" : "/Image/HimnoTarija.jpg",
+	"SongAuthors" : "Letra: Tomás O’Connor D'Arlach 
+Música: Juan Fiori",
+	"SongLyric":"Tarijeños la fama pregona   
+Nuestra Gloria y heroico valor   
+Bravos hijos de Méndez nos llaman   
+De la Patria el orgullo y honor.   
+
+De los héroes del quince de abril   
+tremolamos el bello pendón   
+Y llevamos la noble divisa:   
+Patria, Ley, Libertad, Religión.  
+
+Ni tiranos ni déspotas nunca   
+nuestro orgullo podrán abatir;   
+somos libres, y a ser ay! esclavos   
+preferimos mil veces morir.   
+
+Somos libres cual libre es el cóndor
+que el espacio recorre veloz:   
+tarijeños, más rey no tenemos   
+en la tierra y en el cielo que Dios.  
+
+Sólo amamos la industria, el trabajo   
+dulces bienes que brinda la paz;   
+con amor para todos, con odio   
+para nadie en el pecho jamás.   
+
+De Tarija la estrella alqún día   
+brillara con mas vivo fulgor;   
+entretanto a la patria cantemos   
+dulces himnos de paz y de amor.  
+
+La alba sien de Tarija se ostenta   
+coronada de verde laurel   
+ y el escudo que España le diera   
+con su lema: Muy leal y muy fiel."
+	},
+	{
+	"SongName" : "Himno A Chuquisaca",
+	"SongImage" : "/Image/HimnoChuquisaca.jpg",
+	"SongAuthors" : "Letra: Ricardo Mújia
+Música: Eduardo Berdecio",
+	"SongLyric":"Veinticinco de Mayo en Oriente
+del sol brilla en el carro triunfal
+Deja oh Charcas que irradie en tu frente
+de la gloria el laurel inmortal
+
+Libertad, Libertad es el grito
+que se escucha doquier resonar
+de las grietas andinas al llano.
+y del llano a las ondas del mar.
+
+A la luz sonrosada de Oriente
+que acaricia tu sien virginal
+alza oh Charcas dichosa la frente
+y recuerda tu gloria inmortal.
+
+El pampero le lleva en sus alas
+hasta el antro en que ruje el jaguar
+y en las rocas los nidos de cóndores
+se estremecen al oírle vibrar.
+
+Libertad, Libertad y descienden
+las legiones al campo a luchar;
+y sucumben los héroes clamando:
+“Nuestra vida por ti, Libertad”.
+
+Vencedoras las huestes altivas
+forman pueblos, familias y hogar
+y en el cielo dibújase el “Iris”
+que cobija su dulce heredad."
+	},
+	{
+	"SongName" : "Himno A Cochabamba",
+	"SongImage" : "/Image/HimnoCochabamba.jpg",
+	"SongAuthors" : "Letra: Benjamín Blanco 
+Música: Teófilo Vargas",
+	"SongLyric":"Brilla el sol de Septiembre radiante
+reflejando la gloria inmortal   
+del gran pueblo que firme y constante 
+fue primero en la lucha marcial.   
+
+Libertad del Tunari en la cumbre
+ya su solio por siempre fijo;   
+la cadena de vil servidumbre   
+Cochabamba esforzada rompió.  
+
+De sus hijos el noble ardimiento   
+su altivez y denuedo sin par   
+despertaron el bélico aliento   
+de cien pueblos que van a luchar.   
+
+Suena entonces el grito de gloria
+y se enciende la guerra por fin
+sus jornadas de eterna memoria
+son Aroma, Ayacucho y Junín.  
+
+Sus proezas de fama pregona   
+de una en otra apartada región,   
+y sus timbres preclaros blasona,   
+Ley, deber, patriotismo y union.  
+
+Nuestros padres tenaces lucharon 
+anhelando un grandioso ideal
+y una patria feliz nos legaron
+con el nombre de un heroe inmortal
+
+Y ese nombre que el mundo venera
+que es el emblema de patria y honor
+resplandece en su hermosa bandera
+entre rayos de luz y esplendor
+
+Cochabamba la enseña bendita
+ya flamea magnanima y fiel
+el valor en su pecho palpita
+y en su frente se ostenta el laurel
+
+que es el gran pueblo de habita esta tierra
+siempre amena, florida y feraz
+es tremendo y terrible en la guerra
+justiciero y clemente en la paz."
+	},
+
+	{
+	"SongName" : "Himno A Beni",
+	"SongImage" : "/Image/HimnoBeni.jpg",
+	"SongAuthors" : "Letra: Alfredo Pereyra Lanza  
+Música: Rafael Saghers",
+	"SongLyric":"Canta victorioso pueblo de leyenda,   
+tu himno de trabajo, libertad y unión;   
+y en misterioso rumor de su selva,   
+con eco vibrante, suena tu canción.   
+
+El verde que flamea en mi bandera,   
+emblema de esperanza y de grandeza,
+es la imagen del Beni, la riqueza   
+de esta sierra feliz de promisión.  
+
+Y como el sol que surge en el oriente   
+e ilumina los llanos y la sierra, será   
+ para Bolivia nuestra tierra,   
+promesa de ventura, paz y unión.   
+
+Si la ambición bastarda de un vecino
+bajo el verde listón de mi bandera   
+humillar a mi patria pretendiera   
+iremos con orgullo a combatir.  
+
+Y nuestro himno de paz y trabajo   
+tornaráse en rugido de venganza   
+y puesta en la victoria la esperanza   
+gritaremos ser libres o morir.
+
+"
+	}
+	
+	]
+}
+
